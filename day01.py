@@ -18,7 +18,7 @@ if part1:
                 cal_nums.append(c)
 
         cal_list.append(int(cal_nums[0])*10 + int(cal_nums[-1]))
-        
+
     print("Day 1, part 1 answer:")
 
 else:
